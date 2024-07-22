@@ -16,8 +16,8 @@
 
 - 🔭 I’m currently working on **Natural Language Processing and Sentimental Analysis**
 - 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **NLP related projects and web development**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Data Structures**
+- 👯 I’m looking to collaborate on **NLP related projects, web and App development**
+- 💬 Ask me about **React, Flutter, Python, DBMS, Data Structures**
 - 📫 How to reach me **aswinthulasi007@gmail.com**
 - ⚡ Fun fact **Hello world is updated to Hello Javaaa**
 
