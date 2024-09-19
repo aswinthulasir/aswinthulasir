@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswin Thulasi R</h1>
-<h3 align="center">A passionate software engineer skilled in Web Development and Data Structures</h3>
+<h3 align="center">A Passionate Software Engineer Skilled in Web Development and Generative AI</h3>
 
 <p align="center">
   <a href="https://github.com/aswinthulasir">
