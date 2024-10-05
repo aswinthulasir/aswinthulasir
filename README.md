@@ -15,11 +15,11 @@
 ---
 
 - 🔭 I’m currently working on **Natural Language Processing and Sentimental Analysis**
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DevOps - MS AZURE**
 - 👯 I’m looking to collaborate on **NLP related projects, web and App development**
 - 💬 Ask me about **React, Flutter, Python, DBMS, Data Structures, OS, JavaScript, MongoDB, Node, ExpressJS, Postman, Git, Mongoose, Client-Server Architecture, Generative AI**
 - 📫 How to reach me **aswinthulasi007@gmail.com**
-- ⚡ Fun fact **Hello world is updated to Hello Javaaa**
+- ⚡ Fun fact **Hello world is updated to Hello Azure**
 
 ---
 
