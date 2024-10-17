@@ -51,15 +51,19 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinthulasir&show_icons=true&theme=dark" alt="aswinthulasir's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinthulasir&theme=dark" alt="aswinthulasir's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinthulasir&show_icons=true&locale=en&layout=compact&theme=dark" alt="aswinthulasir's most used languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/aswinthulasir">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aswinthulasir&show_icons=true&theme=dark" alt="aswinthulasir's GitHub stats" />
+  </a>
+  <a href="https://github.com/aswinthulasir">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinthulasir&theme=dark" alt="aswinthulasir's GitHub streak" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/aswinthulasir">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinthulasir&show_icons=true&locale=en&layout=compact&theme=dark" alt="aswinthulasir's most used languages" />
+  </a>
+</div>
 
 ---
 
