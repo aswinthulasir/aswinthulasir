@@ -14,9 +14,9 @@
 ---
 
 - 🔭 I’m currently working on **AI ML**
-- 🌱 I’m currently learning **Python for Machine Learning**
+- 🌱 I’m currently learning **AI**
 - 👯 I’m looking to collaborate on **NLP related projects and Web development**
-- 💬 Ask me about **React, Python, DBMS, Data Structures, OS, JavaScript, MongoDB, Node, ExpressJS, Postman, Git, Mongoose, Client-Server Architecture, Generative AI**
+- 💬 Ask me about **React, Python, PostgreSQL, FastAPI, Data Structures, OS, JavaScript, MongoDB, Node, ExpressJS, Postman, Git, Client-Server Architecture, Generative AI**
 - 📫 How to reach me **aswinthulasi007@gmail.com**
 - ⚡ Fun fact **Hello world is updated to Hello Machine**
 
