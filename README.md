@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aswin Thulasi R</h1>
-<h3 align="center">A Passionate Software Engineer Skilled in Web Development and Generative AI</h3>
+<h1 align="center">Hello Peeps, I'm Aswin Thulasi R</h1>
+<h3 align="center">Building, breaking, and learning — one commit at a time.</h3>
+<h4 align="center">A passionate software developer with expertize in Medical AI, AI imaging and Webdev</h4>
 
 <p align="center">
   <a href="https://github.com/aswinthulasir">
