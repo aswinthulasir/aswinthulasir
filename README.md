@@ -68,8 +68,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/aswinthulasir/aswinthulasir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/aswinthulasir?username&repo=aswinthulasir&theme=dark" alt="Repository aswinthulasir" />
-  </a>
-</p>
+
