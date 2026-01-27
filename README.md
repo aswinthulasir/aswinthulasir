@@ -1,5 +1,5 @@
 <h1 align="center">Hello Peeps, I'm Aswin Thulasi R</h1>
-<h3 align="center">Building, breaking, and learning — one commit at a time.</h3>
+<h3 align="center">Building, breaking, and learning — Not committed yet!.</h3>
 <h4 align="center">A passionate software developer with expertize in Medical AI, AI imaging and Webdev</h4>
 
 <p align="center">
@@ -15,11 +15,11 @@
 ---
 
 - 🔭 I’m currently working on **AI ML**
-- 🌱 I’m currently learning **AI**
-- 👯 I’m looking to collaborate on **NLP related projects and Web development**
-- 💬 Ask me about **React, Python, PostgreSQL, FastAPI, Data Structures, OS, JavaScript, MongoDB, Node, ExpressJS, Postman, Git, Client-Server Architecture, Generative AI**
+- 🌱 I’m currently learning **DEEP LEARNING**
+- 👯 I’m looking to collaborate on **AI/ML/DL Projects**
+- 💬 Ask me about **Computer Vision, Natural Language Processing, Medical Imaging, AI/ML/DL, Python, SQL, OS, Client-Server Architecture, React, Node-Express**
 - 📫 How to reach me **aswinthulasi007@gmail.com**
-- ⚡ Fun fact **Hello world is updated to Hello Machine**
+- ⚡ Fun fact **Noo Fun Fact - Its not fun at all 😁**
 
 ---
 
