@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Aswin+Thulasi+R+%F0%9F%91%8B;Building%2C+Breaking%2C+and+Learning+%F0%9F%9A%80;Medical+AI+%7C+AI+Imaging+%7C+Web+Dev+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Aswin+Thulasi+R;Building%2C+Breaking%2C+and+Learning+%F0%9F%9A%80;Medical+AI+%7C+AI+Imaging+%7C+Web+Dev+%E2%9C%A8" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Medical_AI-blueviolet?style=flat-square&logo=tensorflow&logoColor=white" />
