@@ -25,7 +25,7 @@
 class Developer:
     def __init__(self):
         self.name = "Aswin Thulasi R"
-        self.role = "Software Developer"
+        self.role = "Machine Learning Engineer"
         self.focus = ["Medical AI", "AI Imaging", "Web Development"]
         self.currently_working_on = "AI/ML Projects"
         self.currently_learning = "Deep Learning"
